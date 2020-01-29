@@ -18,5 +18,5 @@ Route::any('DignadiceEx1', 'Exercise1');
 Route::any('DignadiceEx2', 'Exercise2');
 Route::any('DignadiceEx3', 'Exercise3@index');
 Route::any('Dignadice/store', 'Exercise3@store');
-Route::any('Dignadice_final', 'ExerciseFinal@login');
-Route::any('Dignadice_final/store', 'ExerciseFinal@store');
+Route::any('FE4_final', 'ExerciseFinal@login');
+Route::any('FE4_final/store', 'ExerciseFinal@store');
